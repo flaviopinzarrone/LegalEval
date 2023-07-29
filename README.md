@@ -8,6 +8,8 @@ Authors:
 
 Project work for the "Natural Language Processing" course of the Artificial Intelligence master's degree at University of Bologna. This code in this repository is a devolopment of the first two tasks of the [LegalEval challenge](https://sites.google.com/view/legaleval/home) of [SemEval 2023](https://semeval.github.io/SemEval2023/). <br>
 
+**Paper**: [TeamUnibo at SemEval-2023 Task 6: A transformer based approach to Rhetorical Roles prediction and NER in Legal Texts](https://aclanthology.org/2023.semeval-1.37.pdf)
+
 The LegalEval challenge proposes three tasks, based on Indian Legal documents: 
 - Rhetorical Roles prediction
 - Legal Named Entity Recognition
